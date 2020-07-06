@@ -1,0 +1,14 @@
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\bin\Debug\netcoreapp3.1\SKY.Infra.Data.deps.json
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\bin\Debug\netcoreapp3.1\SKY.Infra.Data.dll
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\bin\Debug\netcoreapp3.1\SKY.Infra.Data.pdb
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\bin\Debug\netcoreapp3.1\SKY.Domain.dll
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\bin\Debug\netcoreapp3.1\SKY.Domain.pdb
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\obj\Debug\netcoreapp3.1\SKY.Infra.Data.csprojAssemblyReference.cache
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\obj\Debug\netcoreapp3.1\SKY.Infra.Data.AssemblyInfoInputs.cache
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\obj\Debug\netcoreapp3.1\SKY.Infra.Data.AssemblyInfo.cs
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\obj\Debug\netcoreapp3.1\SKY.Infra.Data.csproj.CopyComplete
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\obj\Debug\netcoreapp3.1\SKY.Infra.Data.dll
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\obj\Debug\netcoreapp3.1\SKY.Infra.Data.pdb
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\bin\Debug\netcoreapp3.1\SKY.Infra.Shared.dll
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\bin\Debug\netcoreapp3.1\SKY.Infra.Shared.pdb
+C:\ANGULAR\SKY\SKY\SKY.Infra.Data\obj\Debug\netcoreapp3.1\SKY.Infra.Data.csproj.CoreCompileInputs.cache
