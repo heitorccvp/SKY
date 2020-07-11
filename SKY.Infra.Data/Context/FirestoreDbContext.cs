@@ -120,6 +120,29 @@ namespace SKY.Infra.Data.Context
 			}
 		}
 
+		public async Task<Usuario> LerColecaoPorId(string colecao, Guid id)
+		{
+			CollectionReference usersRef = db.Collection(colecao);
+			Query query = usersRef.WhereEqualTo("id", id);
+
+			try
+			{
+				QuerySnapshot snapshot = await query.GetSnapshotAsync();
+
+				Usuario retorno = null;
+
+				if (snapshot.Count > 0)
+					retorno = snapshot.Documents.FirstOrDefault().ToDictionary().converterDicionarioParaObjeto();
+
+				return retorno;
+			}
+			catch (Exception ex)
+			{
+				throw new Exception(ex.Message);
+			}
+		}
+
+
 		public async Task<List<object>> LerColecaoInteira(string colecao)
 		{
 			CollectionReference usersRef = db.Collection(colecao);

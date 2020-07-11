@@ -17,5 +17,7 @@ namespace SKY.Domain.Interfaces
 		int Excluir(Guid id);
 
 		UsuarioModel Logar(UsuarioSingInModel usuarioSingInModel);
+
+		UsuarioModel BuscarUsuarioPorId(Guid id);
 	}
 }

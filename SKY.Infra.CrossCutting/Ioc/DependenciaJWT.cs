@@ -21,8 +21,8 @@ namespace SKY.Infra.CrossCutting.Ioc
                        ValidateAudience = true,
                        ValidateLifetime = true,
                        ValidateIssuerSigningKey = true,
-                       ValidIssuer = Configuration["UrlApiSky"],
-                       ValidAudience = Configuration["UrlSiteSky"],
+                       //ValidIssuer = Configuration["UrlApiSky"],
+                       //ValidAudience = Configuration["UrlSiteSky"],
                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["SecurityKey"]))
                    };
 

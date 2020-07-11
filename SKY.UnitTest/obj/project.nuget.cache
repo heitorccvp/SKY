@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q0bNtc2jWufVEZsxgdmtyo+HeZCPlLWMumjxPLm8NdY9yrHRJA3MXG6/RcZFeIqaw0/vGVsd02e7h06ONSp2iA==",
+  "dgSpecHash": "VYtR+hWqm5qmZe6zoi1bD1o3p2zmQvHjIX/aTrBjybF4FSqGdxGeWZfYhZFNIBbdI8n93vA2zz250thjhnJqeg==",
   "success": true,
-  "projectFilePath": "C:\\ANGULAR\\SKY\\SKY\\SKY.UnitTest\\SKY.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.UnitTest\\SKY.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\google.api.commonprotos\\1.7.0\\google.api.commonprotos.1.7.0.nupkg.sha512",

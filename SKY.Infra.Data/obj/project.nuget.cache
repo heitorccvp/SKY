@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHiWeRN5prvgB2cgSuy00Lc/oeDbmBRQ7MwKlExCsCI3IZE0eXHtVFj7jE7ZB+6Jnq9xdzo0tAAMErovCJWIXw==",
+  "dgSpecHash": "TKRFGrgOmsHQKlDlK/8OS3tQOWxTaNT/taTkcUjcGZUWv39dlPamkiugQnC6XI9eMOFrlWQxQbTMYvS/6fA4PQ==",
   "success": true,
-  "projectFilePath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.Data\\SKY.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.Data\\SKY.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\google.api.commonprotos\\1.7.0\\google.api.commonprotos.1.7.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\google.api.gax\\3.0.0\\google.api.gax.3.0.0.nupkg.sha512",

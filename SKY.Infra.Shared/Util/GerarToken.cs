@@ -20,14 +20,14 @@ namespace SKY.Infra.Shared.Util
 
             var nossaChave = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("gg%88*599qweasdzxcvb^!$$vbnvbn12"));
 
-            var emissorDoToken = "http://localhost:2982/";
-            var destinatarioQueVaiUsar = "http://localhost:2982/";
+            //var emissorDoToken = "http://localhost:2982/";
+            //var destinatarioQueVaiUsar = "http://localhost:2982/";
             var tempoDeExpiracaoToken = DateTime.Now.AddMinutes(30);
             var credenciais = new SigningCredentials(nossaChave, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(
-                issuer: emissorDoToken,
-                audience: destinatarioQueVaiUsar,
+                //issuer: emissorDoToken,
+                //audience: destinatarioQueVaiUsar,
                 claims: atributos,
                 expires: tempoDeExpiracaoToken,
                 signingCredentials: credenciais

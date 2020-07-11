@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "geaAdcCJRvPwUH86f2wDzYH4U5zVlaW3JNk1YPbpE6bkKqPWBd2oo4M7/4+X23ZMdgx5Qmj9wvB0J3qFPEEhUw==",
+  "dgSpecHash": "6FmzHFeHC1m52zBrGKqzVJFpqhq9yJlC5znN6Npemik+7yIlhvBVrg2O323IIYiK/oEZmXdr+HIvv+1l0RHgfA==",
   "success": true,
-  "projectFilePath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Service\\SKY.Service.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Service\\SKY.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.cryptography.internal\\2.1.1\\microsoft.aspnetcore.cryptography.internal.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.cryptography.keyderivation\\2.1.1\\microsoft.aspnetcore.cryptography.keyderivation.2.1.1.nupkg.sha512",

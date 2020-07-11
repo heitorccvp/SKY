@@ -8596,11 +8596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ANGULAR\\SKY\\SKY\\SKY.Application\\SKY.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Application\\SKY.Application.csproj",
       "projectName": "SKY.Application",
-      "projectPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Application\\SKY.Application.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Application\\SKY.Application.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Application\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8619,8 +8619,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.CrossCutting\\SKY.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.CrossCutting\\SKY.Infra.CrossCutting.csproj"
+            "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.CrossCutting\\SKY.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.CrossCutting\\SKY.Infra.CrossCutting.csproj"
             }
           }
         }

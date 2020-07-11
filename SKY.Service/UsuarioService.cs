@@ -89,5 +89,15 @@ namespace SKY.Service.Services
 		}
 
 
+		public UsuarioModel BuscarUsuarioPorId(Guid id)
+		{
+
+
+
+			throw new NotImplementedException();
+			
+		}
+
+
 	}
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ANGULAR\\SKY\\SKY\\SKY.Domain\\SKY.Domain.csproj": {}
+    "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Domain\\SKY.Domain.csproj": {}
   },
   "projects": {
-    "C:\\ANGULAR\\SKY\\SKY\\SKY.Domain\\SKY.Domain.csproj": {
+    "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Domain\\SKY.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ANGULAR\\SKY\\SKY\\SKY.Domain\\SKY.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Domain\\SKY.Domain.csproj",
         "projectName": "SKY.Domain",
-        "projectPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Domain\\SKY.Domain.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Domain\\SKY.Domain.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

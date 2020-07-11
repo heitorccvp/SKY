@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jwTEVYEPk01En5KKqSDc7vVmMtjAXEfMh10gOm98qt76vaKq4oSMT8kPji4KX9lrtlc8KGQVrC3YZZ6vC7b8tg==",
+  "dgSpecHash": "3ATc9DPvpTJR2pfGYjpkDVymyp3TsBLnUZjvKI0qTWXR9/aQl0qQUl3deIqfNLdSVSLtJZTZFqlg8qBFTcMxWQ==",
   "success": true,
-  "projectFilePath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.CrossCutting\\SKY.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.CrossCutting\\SKY.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\google.api.commonprotos\\1.7.0\\google.api.commonprotos.1.7.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\google.api.gax\\3.0.0\\google.api.gax.3.0.0.nupkg.sha512",

@@ -38,7 +38,7 @@ namespace SKY.Application
 
 			app.UseRouting();
 
-			app.UseAuthorization();
+			//app.UseAuthorization();
 
 			app.UseAuthentication();
 

@@ -47,6 +47,22 @@ namespace SKY.Application.Controllers
 			}
 		}
 
+		[HttpGet("BuscarUsuario")]
+		[Authorize(Roles ="Usuario")]
+		public IActionResult BuscarUsuario([FromBody] BuscarUsuarioModel usuario)
+		{
+			try
+			{
+				var usuarioLogado = _usuarioService.BuscarUsuario(usuario.id);
+
+				return Ok(usuarioLogado);
+			}
+			catch (Exception ex)
+			{
+				return BadRequest(ex.Message);
+			}
+		}
+
 
 	}
 }

@@ -40,9 +40,18 @@ namespace SKY.Infra.Data.Repository
 
 			var retorno = firestoreDbContext.LerColecaoPorEmail(colecaoUsuarios, email);
 
-			//var usuario = JsonConvert.DeserializeObject<Usuario>(retorno.ToString());
+			return retorno.Result;
+		}
+
+		public Usuario BuscarUsuarioPorId(Guid id)
+		{
+			FirestoreDbContext firestoreDbContext = new FirestoreDbContext();
+
+			var retorno = firestoreDbContext.LerColecaoPorId(colecaoUsuarios, id);
 
 			return retorno.Result;
+
+			throw new NotImplementedException();
 		}
 
 		public int Excluir(Guid id)

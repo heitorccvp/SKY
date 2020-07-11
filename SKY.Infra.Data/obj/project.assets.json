@@ -5672,11 +5672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.Data\\SKY.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.Data\\SKY.Infra.Data.csproj",
       "projectName": "SKY.Infra.Data",
-      "projectPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.Data\\SKY.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.Data\\SKY.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5695,11 +5695,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\ANGULAR\\SKY\\SKY\\SKY.Domain\\SKY.Domain.csproj": {
-              "projectPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Domain\\SKY.Domain.csproj"
+            "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Domain\\SKY.Domain.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Domain\\SKY.Domain.csproj"
             },
-            "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.Shared\\SKY.Infra.Shared.csproj": {
-              "projectPath": "C:\\ANGULAR\\SKY\\SKY\\SKY.Infra.Shared\\SKY.Infra.Shared.csproj"
+            "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.Shared\\SKY.Infra.Shared.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Infra.Shared\\SKY.Infra.Shared.csproj"
             }
           }
         }
