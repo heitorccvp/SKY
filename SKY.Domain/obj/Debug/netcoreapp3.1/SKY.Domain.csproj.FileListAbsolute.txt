@@ -6,3 +6,11 @@ C:\ANGULAR\SKY\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.AssemblyInfo.cs
 C:\ANGULAR\SKY\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.csproj.CoreCompileInputs.cache
 C:\ANGULAR\SKY\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.dll
 C:\ANGULAR\SKY\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\bin\Debug\netcoreapp3.1\SKY.Domain.deps.json
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\bin\Debug\netcoreapp3.1\SKY.Domain.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\bin\Debug\netcoreapp3.1\SKY.Domain.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Domain\obj\Debug\netcoreapp3.1\SKY.Domain.pdb

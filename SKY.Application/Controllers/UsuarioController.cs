@@ -53,7 +53,7 @@ namespace SKY.Application.Controllers
 		{
 			try
 			{
-				var usuarioLogado = _usuarioService.BuscarUsuario(usuario.id);
+				var usuarioLogado = _usuarioService.BuscarUsuario(usuario.id.ToString());
 
 				return Ok(usuarioLogado);
 			}

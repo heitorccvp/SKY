@@ -12,3 +12,17 @@ C:\ANGULAR\SKY\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.csproj.CopyCo
 C:\ANGULAR\SKY\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.dll
 C:\ANGULAR\SKY\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.pdb
 C:\ANGULAR\SKY\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\bin\Debug\netcoreapp3.1\SKY.Service.deps.json
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\bin\Debug\netcoreapp3.1\SKY.Service.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\bin\Debug\netcoreapp3.1\SKY.Service.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\bin\Debug\netcoreapp3.1\SKY.Domain.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\bin\Debug\netcoreapp3.1\SKY.Infra.Shared.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\bin\Debug\netcoreapp3.1\SKY.Domain.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\bin\Debug\netcoreapp3.1\SKY.Infra.Shared.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.csprojAssemblyReference.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.AssemblyInfoInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.AssemblyInfo.cs
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.csproj.CopyComplete
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Service\obj\Debug\netcoreapp3.1\SKY.Service.pdb

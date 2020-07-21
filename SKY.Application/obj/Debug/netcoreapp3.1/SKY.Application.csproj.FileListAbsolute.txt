@@ -85,3 +85,11 @@ C:\ANGULAR\SKY\SKY\SKY.Application\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
 C:\ANGULAR\SKY\SKY\SKY.Application\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
 C:\ANGULAR\SKY\SKY\SKY.Application\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
 C:\ANGULAR\SKY\SKY\SKY.Application\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.csprojAssemblyReference.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.AssemblyInfo.cs
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Application\obj\Debug\netcoreapp3.1\SKY.Application.pdb

@@ -16,3 +16,21 @@ C:\ANGULAR\SKY\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.Cros
 C:\ANGULAR\SKY\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.Data.dll
 C:\ANGULAR\SKY\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.Data.pdb
 C:\ANGULAR\SKY\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.deps.json
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Domain.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.Data.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.Shared.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Service.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.Data.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Service.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Domain.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\bin\Debug\netcoreapp3.1\SKY.Infra.Shared.pdb
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.csproj.CopyComplete
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.dll
+C:\Users\Usuario\Google Drive\SKY\SKY.Infra.CrossCutting\obj\Debug\netcoreapp3.1\SKY.Infra.CrossCutting.pdb
