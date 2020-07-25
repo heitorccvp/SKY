@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "01yC1NbVkHISOVnjaYuEH2Qb6wY/cQn5SgJ5gQ29PEVbsl21pmhJhq4yQTv+pthR58fKf+nR5w4IyfIFzMgPjA==",
+  "dgSpecHash": "aq0OXwrrpgW3dLbDn+mIiwxmfChugBhDL58w5pIcr9eK7l3NXsL03VdmgBXVwMXLCu91WdfrOsWiSxd3+uNqSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Google Drive\\SKY\\SKY.Application\\SKY.Application.csproj",
   "expectedPackageFiles": [
@@ -61,6 +61,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
